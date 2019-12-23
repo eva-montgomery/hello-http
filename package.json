@@ -1,0 +1,25 @@
+{
+  "name": "hello-http",
+  "version": "1.0.0",
+  "description": "## How is a computer like an office building?",
+  "main": "index.js",
+  "scripts": {
+
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radishmouse/hello-http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radishmouse/hello-http/issues"
+  },
+  "homepage": "https://github.com/radishmouse/hello-http#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
